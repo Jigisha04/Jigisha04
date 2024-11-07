@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 🤝 I’m looking for help with **Full StMERN STACK for scalable web development best practices.**
+- 🤝 I’m looking for help with **MERN STACK for scalable web development best practices.**
 
 - 💬 Ask me about **MERN Stack(MongoDB,Express,React,Node.js)**
 
